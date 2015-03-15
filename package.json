@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/yibuyisheng/gulp-jsx",
   "dependencies": {
-    "react-tools": "^0.13.0"
+    "gulp-util": "^3.0.4",
+    "object-assign": "^2.0.0",
+    "react-tools": "^0.13.0",
+    "through2": "^0.6.3"
   }
 }
